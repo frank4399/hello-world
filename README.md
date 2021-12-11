@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+```
+print("Hello world!\n")
+```
+My first repository in github
